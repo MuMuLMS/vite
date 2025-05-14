@@ -3,6 +3,7 @@ import { pagefindPlugin } from 'vitepress-plugin-pagefind'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  appearance: false,
   title: "木木分享",
   description: "木木分享 - 一个分享优质网盘资源的网站",
   lang: 'zh-CN', // 设置默认语言为中文
@@ -60,7 +61,6 @@ return cut(text);
   },
   themeConfig: {
     outlineTitle: '目录', // 修改右侧目录栏标题
-    
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
