@@ -38,7 +38,7 @@ hero:
       link: /cartoon
     - theme: brand
       text: 纪录片资源
-      link: /documentary
+      link: /Documentary
     - theme: brand
       text: 书籍资源
       link: /book
