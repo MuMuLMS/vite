@@ -10,11 +10,7 @@ title: "Book"
 <ClickableCopy text="https://pan.baidu.com/s/1L0g_5tPGBmaQt64B9OqkGw?pwd=rjym" successMessage="已复制百度网盘链接到剪贴板！"/> 百度网盘 <!-- text后输入百度网盘链接 --> <br>
 <ClickableCopy text="https://pan.quark.cn/s/d1afc723e4fc" successMessage="已复制夸克网盘链接到剪贴板！"/> 夸克网盘 <!-- text后输入夸克网盘链接 -->
 :::
-## 万唯中考《2025年中考黑白卷 (多版本) 》
-黑白卷由万唯中考千人研究院特邀中考一线名师共同研发，分析各地区近10年中考新趋势，了解中考新考法。“黑卷”针对中考必考点、高频考点练习，“白卷”在“黑卷”基础上补充训练，适用于中考前冲刺复习。
-::: details 查看网盘链接，点击链接即可复制
-<ClickableCopy text="https://pan.baidu.com/s/1L0g_5tPGBmaQt64B9OqkGw?pwd=rjym" successMessage="已复制百度网盘链接到剪贴板！"/> 百度网盘 <!-- text后输入百度网盘链接 --> 
-:::
+
 ## 《阅读不息》(文学)[PDF+EPUB]
 读这书时感觉自己像在翻看坂本龙一的豆瓣书影音标记，一种窥见他人隐秘阅读/观影兴趣的兴奋感。本书展现了坂本龙一最后几年的阅读品味，他的阅读趣味天马行空：从夏目簌石到德里达，从布列松到塔可夫斯基到小津安二郎、黑泽明、大岛渚，从八大山人到村上龙……让读者从坂本龙一的阅读品味，让更全面地了解坂本龙一……
 ::: details 查看网盘链接，点击链接即可复制

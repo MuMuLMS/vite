@@ -42,6 +42,9 @@ hero:
     - theme: brand
       text: 书籍资源
       link: /book
+    - theme: brand
+      text: 综艺资源
+      link: /varietyshow
 
 features:
   - icon: 📝
