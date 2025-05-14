@@ -1,0 +1,9 @@
+/* .vitepress/theme/custom.css */
+
+/* 覆盖网站名称的颜色 */
+:root {
+  --vp-home-hero-name-color: #000; /* 设置颜色为黑色 */
+  --vp-c-white: #fdfbfb; /* 品牌按钮文字颜色 */
+  --vp-c-brand-3: #000000; /* 品牌按钮背景颜色 */
+  --vp-c-bg: #ffffff; /* 设置背景颜色为白色 */
+}

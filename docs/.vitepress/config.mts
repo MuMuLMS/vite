@@ -27,7 +27,8 @@ export default defineConfig({
               // 使用简单的字符分割方式处理中文
               tokenize: (text) => {
                 // 将每个中文字符作为独立的token
-                return Array.from(text);
+                const { cut } = require('@node-rs/jieba');
+return cut(text);
               }
             }
           }
@@ -58,6 +59,7 @@ export default defineConfig({
     ]
   },
   themeConfig: {
+    
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },

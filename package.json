@@ -5,18 +5,19 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "preinstall": "chmod +x node_modules/.bin/*",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
+    "pagefind": "^1.3.0",
     "vitepress": "^1.0.0",
     "vitepress-copy-helper": "^0.0.3",
     "vitepress-plugin-pagefind": "^0.4.13",
     "vue": "^3.2.0"
   },
   "devDependencies": {
+    "@types/node": "^22.15.17",
     "typescript": "^4.0.0"
   }
 }

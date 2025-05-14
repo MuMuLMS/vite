@@ -3,6 +3,7 @@ import CopyButton from 'vitepress-copy-helper';
 import 'vitepress-copy-helper/style.css';
 import Layout from './Layout.vue'
 import ClickableCopy from '../components/ClickableCopy.vue'
+import './style.css'
 
 
 export default {
