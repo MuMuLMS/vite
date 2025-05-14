@@ -59,6 +59,7 @@ return cut(text);
     ]
   },
   themeConfig: {
+    outlineTitle: '目录', // 修改右侧目录栏标题
     
     // https://vitepress.dev/reference/default-theme-config
     nav: [
